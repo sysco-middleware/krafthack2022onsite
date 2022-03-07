@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 Unit4/bolt_pretension.csv
 Unit4/input_dataset-2.parquet
+input_dataset-1.parquet
+input_dataset-2.parquet
+sensor_metadata.pdf
+prediction_input.parquet
+bolt_pretension.csv
+
