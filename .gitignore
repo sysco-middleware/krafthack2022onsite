@@ -135,3 +135,5 @@ sensor_metadata.pdf
 prediction_input.parquet
 bolt_pretension.csv
 
+=======
+*.csv
